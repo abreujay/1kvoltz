@@ -1,0 +1,15 @@
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arimo;  
+}
+
+html,
+body {
+
+  height: 100vh;
+  background-color: #111111;
+  padding-bottom: 2700px;
+}
